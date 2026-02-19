@@ -6,6 +6,7 @@ class Producto:
 
     def actualizar_stock(self, cantidad):
         self.stock += cantidad
+        # self.stock = self.stock - cantidad
 
         if cantidad > 0:
             print(f"Se han agregado {cantidad} unidades de {self.nombre}. Stock actual: {self.stock}")
