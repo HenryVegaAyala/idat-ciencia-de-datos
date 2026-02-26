@@ -1,0 +1,7 @@
+id,nombre,edad,ciudad,salario
+1,Ana,25,Madrid,3000
+2,Luis,,Barcelona,2500
+3,María,30,,
+4,Carlos,28,Valencia,2800
+5,Elena,,Sevilla,
+6,Pedro,35,Madrid,3200
