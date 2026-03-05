@@ -1,0 +1,11 @@
+id_cliente,edad,visitas_web,region
+1,25,10,Norte
+2,45,2,Sur
+3,35,15,Norte
+4,50,5,Este
+5,23,20,Oeste
+6,40,8,Norte
+7,60,1,Sur
+8,31,12,Este
+9,28,18,Oeste
+10,55,3,Sur
